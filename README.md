@@ -42,3 +42,14 @@ Please refer to our full [paper](https://arxiv.org/pdf/2312.17661.pdf) for more 
 (4) Our manual error analysis reveals that Gemini Pro often misunderstands provided contextual information, accounting for 30.2% of its total errors. Furthermore, Gemini Pro Vision struggles particularly with identifying emotional stimuli in images, especially those involving human entities, which constitutes 32.6% of
 its total errors.
 
+## Citation
+If you find this work helpful, please consider citing as follows:  
+
+```ruby
+@article{wang2023gemini,
+  title={Gemini in Reasoning: Unveiling Commonsense in Multimodal Large Language Models},
+  author={Wang, Yuqing and Zhao, Yun},
+  journal={arXiv preprint arXiv:2312.17661},
+  year={2023}
+}
+```
